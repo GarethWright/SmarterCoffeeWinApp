@@ -1,4 +1,5 @@
-# SmarterCoffeeWinApp
+# Smarter Coffee Win App
+
 Smarter Coffee Wifi Coffee Machine Windows App
 
 
