@@ -1,0 +1,8 @@
+d:\Documents\Visual Studio 2012\Projects\CoffeeRequest\CoffeeRequest\obj\Debug\CoffeeRequest.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2012\Projects\CoffeeRequest\CoffeeRequest\obj\Debug\CoffeeRequest.Form1.resources
+d:\Documents\Visual Studio 2012\Projects\CoffeeRequest\CoffeeRequest\obj\Debug\CoffeeRequest.Properties.Resources.resources
+d:\Documents\Visual Studio 2012\Projects\CoffeeRequest\CoffeeRequest\obj\Debug\CoffeeRequest.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2012\Projects\CoffeeRequest\CoffeeRequest\bin\Debug\CoffeeRequest.exe
+d:\Documents\Visual Studio 2012\Projects\CoffeeRequest\CoffeeRequest\bin\Debug\CoffeeRequest.pdb
+d:\Documents\Visual Studio 2012\Projects\CoffeeRequest\CoffeeRequest\obj\Debug\CoffeeRequest.exe
+d:\Documents\Visual Studio 2012\Projects\CoffeeRequest\CoffeeRequest\obj\Debug\CoffeeRequest.pdb
